@@ -4,4 +4,4 @@ Interface: C# forms
 
 Subject: Database
 Teacher: Caus Oana
-UPT Timisoara, Faculty of Automation and Computers, Informatics specialization, year 2, semester 2
+UPT Timisoara, Faculty of Automation and Computers, Informatics specialization, year 3, semester 1
